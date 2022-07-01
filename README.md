@@ -1,3 +1,7 @@
+<img src="./assets/Github Banner.png" style="border-radius: 8px"/>
+
+</br>
+
 ## Hello, My name is Roque Barbosa <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" height="40em">
 
 I was first interested in games and that motivated me to go to a high school integrated with a technical education in informatics, from then on I fell in love with code and left the technical education straight to college of computer science, today I'm a bachelor's in Computer Science! Software engineering and relational database are the areas where my studies concentrate and I recently fell in love with functional programming.
