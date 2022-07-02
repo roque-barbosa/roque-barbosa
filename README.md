@@ -1,4 +1,4 @@
-<img src="./assets/Github Banner.png" style="border-radius: 8px"/>
+<img src="./assets/Github Banner2.png" style="border-radius: 8px"/>
 
 </br>
 
