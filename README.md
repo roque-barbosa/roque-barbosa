@@ -2,26 +2,23 @@
 
 </br>
 
-## Hello, My name is Roque Barbosa <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" height="40em">
+## Hi
 
-I was first interested in games and that motivated me to go to a high school integrated with a technical education in informatics, from then on I fell in love with code and left the technical education straight to college of computer science, today I'm a bachelor's in Computer Science! Software engineering and relational database are the areas where my studies concentrate and I recently fell in love with functional programming.
+I first became interested in games, which motivated me to attend a high school that combined traditional studies with a technical education in informatics. From then on, I fell in love with coding and went straight from technical school to a degree in Computer Science.
+Today, I hold a Bachelor's in Computer Science and have had the opportunity to work in diverse areas — from telecom and observability to web development, and from databases and queries to mobile applications. I’ve worked with a wide range of technologies, including Java, Python, JavaScript, Elixir, PHP, and Ruby — and the list goes on.
 
 </br>
 
-Learning something new was waht kept me going strong since I was a child, starting a new project and seeing it come to fruition is one of the ebst expiriences that I live every day, only bested by teaching, activity that I love to do, and I hope that every day I will be able to learn something that will make me better.
+If you need anything from me, you can reach out using one of the links belowIf you’d like to get in touch, feel free to reach out using one of the links below.
 
 </br>
   </br>
   <p align="center">
-  <a href="https://github.com/roque-barbosa">
-        <img  src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white&link=mailto:https://github.com/atiladefreitas">
-    </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://www.linkedin.com/in/roque-c-junior">
         <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=mailto:https://www.linkedin.com/in/atilafreitas/">
     </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="mailto:roquejr1307@gmail.com">
+    <a href="mailto:roque.barbosa@proton.me">
         <img src="https://img.shields.io/badge/-roquejr1307@gmail.com-%230077B5?style=for-the-badge&logo=gmail&logoColor=white&color=informational">
     </a>
   </p>
