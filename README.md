@@ -19,6 +19,6 @@ If you need anything from me, you can reach out using one of the links belowIf y
     </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="mailto:roque.barbosa@proton.me">
-        <img src="https://img.shields.io/badge/-roquejr1307@gmail.com-%230077B5?style=for-the-badge&logo=gmail&logoColor=white&color=informational">
+        <img src="https://img.shields.io/badge/-roque.barbosa@proton.me-%230077B5?style=for-the-badge&logo=gmail&logoColor=white&color=informational">
     </a>
   </p>
