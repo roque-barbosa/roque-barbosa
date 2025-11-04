@@ -11,8 +11,6 @@ I was first interested in games and that motivated me to go to a high school int
 Learning something new was waht kept me going strong since I was a child, starting a new project and seeing it come to fruition is one of the ebst expiriences that I live every day, only bested by teaching, activity that I love to do, and I hope that every day I will be able to learn something that will make me better.
 
 </br>
-
-## Where to find me 📱
   </br>
   <p align="center">
   <a href="https://github.com/roque-barbosa">
@@ -27,13 +25,3 @@ Learning something new was waht kept me going strong since I was a child, starti
         <img src="https://img.shields.io/badge/-roquejr1307@gmail.com-%230077B5?style=for-the-badge&logo=gmail&logoColor=white&color=informational">
     </a>
   </p>
-
-  ## My Statistics
-
-<p align="center">
-<a ref="https://github.com/roque-barbosa">
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=roque-barbosa&count_private=true&show_icons=true&theme=radical"/>
-&nbsp;&nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roque-barbosa&layout=compact&langs_count=16&theme=radical"/>
-</a>
-</p>
